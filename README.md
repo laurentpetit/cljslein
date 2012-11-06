@@ -1,6 +1,6 @@
 # cljslein
 
-Attempt to create a ClojureScript project with Leinigen2, nrepl, piggieback.
+Simplest Clojurescript demonstration project as possible with Leiningen2, nrepl, piggieback.
 
 Not trying to bring in cljsbuild yet.
 
